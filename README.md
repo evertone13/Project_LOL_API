@@ -1,2 +1,2 @@
-# Project_LOL_API
-Project using League of Legends API
+# Project_LOL_API_Test
+Test version of Project using League of Legends API
